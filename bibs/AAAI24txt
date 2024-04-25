@@ -1,0 +1,11 @@
+@inproceedings{WuSXL024,
+  author       = {Zhiliang Wu and
+                  Changchang Sun and
+                  Hanyu Xuan and
+                  Gaowen Liu and
+                  Yan Yan},
+  title        = {WaveFormer: Wavelet Transformer for Noise-Robust Video Inpainting},
+  booktitle    = { AAAI Conference on Artificial Intelligence,
+{AAAI}},
+  pages        = {6180--6188},
+  year         = {2024}}
