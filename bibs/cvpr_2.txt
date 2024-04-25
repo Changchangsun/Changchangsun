@@ -1,0 +1,14 @@
+@inproceedings{WuXSGZ023,
+  author       = {Zhiliang Wu and
+                  Hanyu Xuan and
+                  Changchang Sun and
+                  Weili Guan and
+                  Kang Zhang and
+                  Yan Yan},
+  title        = {Semi-Supervised Video Inpainting with Cycle Consistency Constraints},
+  booktitle    = {{IEEE/CVF} Conference on Computer Vision and Pattern Recognition,
+                  {CVPR}},
+  pages        = {22586--22595},
+  publisher    = {{IEEE}},
+  year         = {2023}
+}
