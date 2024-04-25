@@ -9,6 +9,5 @@
   booktitle    = {{IEEE/CVF} Conference on Computer Vision and Pattern Recognition,
                   {CVPR}},
   pages        = {22586--22595},
-  publisher    = {{IEEE}},
   year         = {2023}
 }
