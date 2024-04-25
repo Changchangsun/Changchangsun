@@ -6,6 +6,5 @@
   title        = {Deep Stereo Video Inpainting},
   booktitle    = {{IEEE/CVF} Conference on Computer Vision and Pattern Recognition},
   pages        = {5693--5702},
-  publisher    = {{IEEE}},
   year         = {2023}
 }
