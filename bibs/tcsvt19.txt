@@ -1,0 +1,7 @@
+@article{wu2022divide,
+  title={Divide-and-conquer completion network for video inpainting},
+  author={Wu, Zhiliang and Sun, Changchang and Xuan, Hanyu and Zhang, Kang and Yan, Yan},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2022},
+  publisher={IEEE}
+}
