@@ -1,0 +1,7 @@
+@article{song2023mm,
+  title={MM-FRec: Multi-modal enhanced fashion item recommendation},
+  author={Song, Xuemeng and Wang, Chun and Sun, Changchang and Feng, Shanshan and Zhou, Min and Nie, Liqiang},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2023},
+  publisher={IEEE}
+}
