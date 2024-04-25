@@ -1,0 +1,8 @@
+@InProceedings{Ding_2023_WACV,
+    author    = {Ding, Hao and Sun, Changchang and Tang, Hao and Cai, Dawen and Yan, Yan},
+    title     = {Few-Shot Medical Image Segmentation With Cycle-Resemblance Attention},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2023},
+    pages     = {2488-2497}
+}
