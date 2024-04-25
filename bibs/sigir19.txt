@@ -1,0 +1,7 @@
+@inproceedings{sun2019supervised,
+  title={Supervised hierarchical cross-modal hashing},
+  author={Sun, Changchang and Song, Xuemeng and Feng, Fuli and Zhao, Wayne Xin and Zhang, Hao and Nie, Liqiang},
+  booktitle={ACM SIGIR conference on research and development in information retrieval},
+  pages={725--734},
+  year={2019}
+}
