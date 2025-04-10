@@ -1,0 +1,6 @@
+@article{sun2024forget,
+  title={Forget Vectors at Play: Universal Input Perturbations Driving Machine Unlearning in Image Classification},
+  author={Sun, Changchang and Wang, Ren and Zhang, Yihua and Jia, Jinghan and Liu, Jiancheng and Liu, Gaowen and Liu, Sijia and Yan, Yan},
+  journal={arXiv preprint arXiv:2412.16780},
+  year={2024}
+}
