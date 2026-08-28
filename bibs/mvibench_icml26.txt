@@ -1,0 +1,6 @@
+@inproceedings{chen2026mvibench,
+  title={MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs},
+  author={Chen, Huiyi and Peng, Jiawei and Min, Dehai and Sun, Changchang and Chen, Kaijie and Yan, Yan and Yang, Xu and Cheng, Lu},
+  booktitle={International Conference on Machine Learning (ICML)},
+  year={2026}
+}

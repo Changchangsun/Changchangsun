@@ -1,0 +1,6 @@
+@inproceedings{wu2023flowguided,
+  title={Flow-Guided Deformable Alignment Network with Self-Supervision for Video Inpainting},
+  author={Wu, Zhiliang and Zhang, Kang and Sun, Changchang and Xuan, Hanyu and Yan, Yan},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  year={2023}
+}

@@ -1,0 +1,6 @@
+@inproceedings{sharma2025ssdl,
+  title={SSDL: Sensor-to-Skeleton Diffusion Model with Lipschitz Regularization for Human Activity Recognition},
+  author={Sharma, Nikhil and Sun, Changchang and Zhao, Zhenghao and Ngu, Anne Hee Hiong and Latapie, Hugo and Yan, Yan},
+  booktitle={International Conference on Multimedia Modeling (MMM)},
+  year={2025}
+}

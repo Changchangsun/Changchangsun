@@ -1,0 +1,6 @@
+@inproceedings{sun2026soda,
+  title={SODA: Semantic-Cohesive Knowledge Distillation for Deep Cross-Modal Hashing},
+  author={Sun, Changchang and Chen, Vickie and Yan, Yan},
+  booktitle={IEEE International Conference on Automatic Face and Gesture Recognition (FG)},
+  year={2026}
+}

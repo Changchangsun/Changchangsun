@@ -1,0 +1,6 @@
+@inproceedings{liu2019user,
+  title={User Diverse Preference Modeling by Multimodal Attentive Metric Learning},
+  author={Liu, Fan and Cheng, Zhiyong and Sun, Changchang and Wang, Yinglong and Nie, Liqiang and Kankanhalli, Mohan},
+  booktitle={ACM International Conference on Multimedia (ACM MM)},
+  year={2019}
+}

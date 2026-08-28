@@ -1,0 +1,6 @@
+@inproceedings{duan2024mining,
+  title={Mining and Unifying Heterogeneous Contrastive Relations for Weakly-Supervised Actor-Action Segmentation},
+  author={Duan, Bin and Tang, Hao and Sun, Changchang and Zhu, Ye and Yan, Yan},
+  booktitle={IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  year={2024}
+}

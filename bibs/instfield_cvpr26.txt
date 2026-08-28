@@ -1,0 +1,6 @@
+@inproceedings{wu2026consistent,
+  title={Consistent Instance Field for Dynamic Scene Understanding},
+  author={Wu, Junyi and Nguyen, Van Nguyen and Planche, Benjamin and Tao, Jiachen and Sun, Changchang and Gao, Zhongpai and Zhao, Zhenghao and Choudhuri, Anwesa and Zhang, Gengyu and Zheng, Meng and Wang, Feiran and Chen, Terrence and Yan, Yan and Wu, Ziyan},
+  booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2026}
+}

@@ -1,0 +1,6 @@
+@inproceedings{kang2025visual,
+  title={Visual Grounding with Attention-Driven Constraint Balancing},
+  author={Kang, Weitai and Zhou, Luowei and Wu, Junyi and Sun, Changchang and Yan, Yan},
+  booktitle={ACM International Conference on Multimedia (ACM MM)},
+  year={2025}
+}

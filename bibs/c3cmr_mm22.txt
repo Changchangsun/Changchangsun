@@ -1,0 +1,6 @@
+@inproceedings{wang2022c3cmr,
+  title={C3CMR: Cross-Modality Cross-Instance Contrastive Learning for Cross-Media Retrieval},
+  author={Wang, Junsheng and Gong, Tiantian and Zeng, Zhixiong and Sun, Changchang and Yan, Yan},
+  booktitle={ACM International Conference on Multimedia (ACM MM)},
+  year={2022}
+}
