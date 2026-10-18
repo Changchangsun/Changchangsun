@@ -1,0 +1,6 @@
+@article{sun2026body,
+  title={Where the Body Keeps the Beat: Structured Motion Conditioning and Music Dynamics Supervision for Dance-to-Music Generation},
+  author={Sun, Changchang and Cheng, Lu and Yan, Yan},
+  journal={arXiv preprint arXiv:2610.00726},
+  year={2026}
+}
